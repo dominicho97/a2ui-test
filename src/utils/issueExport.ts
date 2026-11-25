@@ -179,7 +179,7 @@ export function renderIssueMarkdown(report: IssueReport): string {
       );
     });
   }
-  lines.push('', '*Reported via FeedbackFlow AI - Automated UAT Assistant*');
+  lines.push('', '*Reported via a2ui test - Automated UAT Assistant*');
 
   return lines.join('\n');
 }

@@ -63,7 +63,7 @@ export function investigateApiPlugin(env: ServerEnv): Plugin {
   };
 
   return {
-    name: 'feedbackflow-investigate-api',
+    name: 'a2ui-test-investigate-api',
     configureServer(server) {
       server.middlewares.use(middleware);
     },

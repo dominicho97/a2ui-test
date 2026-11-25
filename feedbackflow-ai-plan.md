@@ -1,9 +1,9 @@
-# FeedbackFlow AI - Implementation Plan (Revised)
+# a2ui test - Implementation Plan (Revised)
 
-This document outlines the structured architecture, components, and implementation phases for **FeedbackFlow AI**, a hackathon prototype of an agentic User Acceptance Testing (UAT) assistant for enterprise dashboards.
+This document outlines the structured architecture, components, and implementation phases for **a2ui test**, a hackathon prototype of an agentic User Acceptance Testing (UAT) assistant for enterprise dashboards.
 
 ## High-Level Overview
-FeedbackFlow AI connects a simulated interactive Power BI-style dashboard with real browser screen-recording, custom timestamped annotations, structured state telemetry tracking, an adaptive AI Investigator (A2UI-inspired dynamic forms), and a structured issue generator with real video frame evidence capture.
+a2ui test connects a simulated interactive Power BI-style dashboard with real browser screen-recording, custom timestamped annotations, structured state telemetry tracking, an adaptive AI Investigator (A2UI-inspired dynamic forms), and a structured issue generator with real video frame evidence capture.
 
 ---
 

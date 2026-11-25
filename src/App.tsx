@@ -101,7 +101,7 @@ export default function App(): ReactElement {
           </div>
           <div>
             <h1 className="text-base md:text-lg font-extrabold tracking-tight flex items-center space-x-2">
-              <span>FeedbackFlow AI</span>
+              <span>a2ui test</span>
               <span className="text-[10px] font-bold tracking-widest bg-yellow-500/20 text-[#f2c811] px-2 py-0.5 rounded uppercase ml-2 border border-yellow-500/30">
                 UAT Hackathon MVP
               </span>
