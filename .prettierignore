@@ -1,0 +1,4 @@
+dist
+node_modules
+.bob
+package-lock.json

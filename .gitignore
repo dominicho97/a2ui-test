@@ -1,0 +1,15 @@
+﻿# Dependencies and build output
+node_modules/
+dist/
+
+# Secrets: never commit real keys. Only .env.example is tracked.
+.env
+.env.*
+!.env.example
+*.pem
+
+# Tooling output
+playwright-report/
+test-results/
+*.log
+.vite/
